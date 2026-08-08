@@ -1,21 +1,16 @@
-RAJA BIM COORDINATOR PORTFOLIO
+RAJA PREMIUM BIM PORTFOLIO
+Replace the current GitHub Pages files with:
+index.html
+style.css
+script.js
+raja-profile.jpg
+RAJA_CV.pdf
 
-Files:
-- index.html
-- style.css
-- script.js
-- raja-profile.jpg
-- RAJA_CV.pdf
+GitHub:
+Repository: rajamuthu360/rajamuthu360.github.io
+Branch: main
+Folder: /(root)
+After committing, wait 1–2 minutes and open:
+https://rajamuthu360.github.io/
 
-Open index.html in Chrome to preview.
-The website uses the supplied profile photo and CV information.
-
-Contact details included:
-Phone: +65 8379 9287
-Email: rajamuthu360@gmail.com
-LinkedIn: https://www.linkedin.com/in/rajan360
-
-To publish:
-1. Upload all files to your web hosting.
-2. Keep the file names unchanged.
-3. Connect your domain name.
+Included: premium responsive design, animations, BIM/DfMA visual, project cards, skills/software, experience, education, certifications, CV, phone/email/LinkedIn.
