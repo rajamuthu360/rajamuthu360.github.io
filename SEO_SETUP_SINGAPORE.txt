@@ -1,0 +1,46 @@
+RAJA BIM PORTFOLIO — SEO SETUP
+
+Website:
+https://rajamuthu360.github.io/
+
+SEO title:
+N. RAJA | BIM Coordinator (DfMA) | Singapore
+
+Meta description:
+N. RAJA is a BIM Coordinator in Singapore specialising in BIM modelling, DfMA, MEP coordination, project coordination and prefabrication. Explore his BIM portfolio, project experience, skills and engineering background.
+
+Primary search terms:
+N. RAJA
+RAJA BIM Coordinator
+Raja BIM Singapore
+BIM Coordinator Singapore
+BIM Designer Singapore
+BIM Coordinator DfMA
+DfMA Singapore
+MEP BIM
+MEP Coordination
+Revit
+Navisworks
+AutoCAD
+MEP Prefabrication
+BIM Portfolio Singapore
+
+Added to the current Singapore-background portfolio:
+- SEO title and meta description
+- Keywords/meta
+- Canonical URL
+- Robots meta
+- Open Graph social metadata
+- Twitter card metadata
+- Person JSON-LD structured data
+- robots.txt
+- sitemap.xml
+
+Google Search Console:
+1. Add https://rajamuthu360.github.io/
+2. Verify ownership.
+3. Submit https://rajamuthu360.github.io/sitemap.xml
+4. Use URL Inspection for https://rajamuthu360.github.io/ and request indexing.
+
+Note:
+SEO can help Google understand and discover the website, but Google does not guarantee a first-page or first-result position for a generic search such as "RAJA".

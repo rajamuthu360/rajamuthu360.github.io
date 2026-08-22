@@ -1,16 +1,12 @@
-RAJA PREMIUM BIM PORTFOLIO
-Replace the current GitHub Pages files with:
-index.html
-style.css
-script.js
-raja-profile.jpg
-RAJA_CV.pdf
+N. RAJA BIM PORTFOLIO — BLUE/CYAN PORTFOLIO REDESIGN
 
-GitHub:
-Repository: rajamuthu360/rajamuthu360.github.io
-Branch: main
-Folder: /(root)
-After committing, wait 1–2 minutes and open:
-https://rajamuthu360.github.io/
+This version is redesigned to closely follow the supplied reference image:
+- dark navy / black background
+- cyan-blue glow and accents
+- compact rounded cards
+- circular profile image in the hero
+- About / Education / Skills / Projects / Experience / Contact sections
+- responsive mobile layout
+- SEO metadata, sitemap and robots.txt retained
 
-Included: premium responsive design, animations, BIM/DfMA visual, project cards, skills/software, experience, education, certifications, CV, phone/email/LinkedIn.
+Upload all files to the GitHub Pages root.
